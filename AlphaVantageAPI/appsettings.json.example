@@ -1,0 +1,17 @@
+{
+  "ConnectionStrings": {
+    "DEV": "Data Source=DESKTOP-NAME\\SQLEXPRESS; Initial Catalog=StockDatabase; User ID=DBUser; Password=DBPassword"
+  },
+  "ApiInfo": {
+    "Key": "APIKey",
+    "Host": "APIHost"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
