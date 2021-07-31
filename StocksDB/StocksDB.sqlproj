@@ -64,5 +64,6 @@
     <Build Include="dbo\Tables\Symbols.sql" />
     <Build Include="dbo\Tables\Prices.sql" />
     <Build Include="dbo\Stored Procedures\sp_AddPrices.sql" />
+    <Build Include="dbo\Stored Procedures\sp_ChangePercent.sql" />
   </ItemGroup>
 </Project>
